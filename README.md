@@ -1,0 +1,2 @@
+# NewjavaClass
+java training
